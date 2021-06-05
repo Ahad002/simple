@@ -3,7 +3,7 @@ using namespace std;
 int main(){
   int a;
   int b;
-  int mul=a*b;
-  cout<<mul;
+  int multi=a*b;
+  cout<<multi;
   return 0;
 }
