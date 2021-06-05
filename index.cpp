@@ -1,6 +1,9 @@
 #include<bits/stdc++.h>
 using namespace std;
 int main(){
-  cout<<"git start";
+  int a;
+  int b;
+  int sum=a+b;
+  cout<<sum;
   return 0;
 }
